@@ -188,7 +188,7 @@ auth-app-boot-react/
    npm run dev
    ```
 
-📍 Frontend runs on **http://localhost:5173**
+📍 Frontend runs on **http://localhost:5173/**
 
 ---
 
